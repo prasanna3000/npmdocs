@@ -1,0 +1,11 @@
+{
+    "source": {
+      "include": ["./packages/"],
+      "exclude": [""]
+    },
+    "opts": {
+      "destination": "./packages/docs",
+      "recurse": true
+    }
+  }
+  
